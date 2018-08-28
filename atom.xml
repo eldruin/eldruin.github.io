@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eldruin&#39;s blog</title>
+  
+  <subtitle>Software engineer</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.eldruin.com/"/>
+  <updated>2018-08-28T18:03:04.571Z</updated>
+  <id>http://blog.eldruin.com/</id>
+  
+  <author>
+    <name>Diego Barrios Romero</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Inter-Process Communication: pipe(), fork() and C++ STL-like streams</title>
+    <link href="http://blog.eldruin.com/Inter-Process-Communication-pipe-fork-and-C-STL-like-streams/"/>
+    <id>http://blog.eldruin.com/Inter-Process-Communication-pipe-fork-and-C-STL-like-streams/</id>
+    <published>2011-04-22T07:04:48.000Z</published>
+    <updated>2018-08-28T18:03:04.571Z</updated>
+    
+    <summary type="html">
+    
+      Example of inter-process comunication in C++ using STL-like streams.
+    
+    </summary>
+    
+      <category term="programming" scheme="http://blog.eldruin.com/categories/programming/"/>
+    
+    
+      <category term="c++" scheme="http://blog.eldruin.com/tags/c/"/>
+    
+      <category term="ipc" scheme="http://blog.eldruin.com/tags/ipc/"/>
+    
+      <category term="stl" scheme="http://blog.eldruin.com/tags/stl/"/>
+    
+  </entry>
+  
+</feed>
