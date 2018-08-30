@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.eldruin.com/"/>
-  <updated>2018-08-28T18:03:04.571Z</updated>
+  <updated>2018-08-30T17:29:15.680Z</updated>
   <id>http://blog.eldruin.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Inter-Process Communication: pipe(), fork() and C++ STL-like streams</title>
-    <link href="http://blog.eldruin.com/Inter-Process-Communication-pipe-fork-and-C-STL-like-streams/"/>
-    <id>http://blog.eldruin.com/Inter-Process-Communication-pipe-fork-and-C-STL-like-streams/</id>
+    <link href="http://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/"/>
+    <id>http://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/</id>
     <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-08-28T18:03:04.571Z</updated>
+    <updated>2018-08-30T17:29:15.680Z</updated>
     
     <summary type="html">
     
@@ -37,6 +37,30 @@
       <category term="ipc" scheme="http://blog.eldruin.com/tags/ipc/"/>
     
       <category term="stl" scheme="http://blog.eldruin.com/tags/stl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DSMemorizer</title>
+    <link href="http://blog.eldruin.com//dsmemorizer/"/>
+    <id>http://blog.eldruin.com//dsmemorizer/</id>
+    <published>2011-04-22T07:04:48.000Z</published>
+    <updated>2018-08-30T17:29:15.680Z</updated>
+    
+    <summary type="html">
+    
+      Homebrew game for the Nintendo DS (and emulators) to help memorizing japanese vocabulary and ideograms.
+    
+    </summary>
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/categories/embedded/"/>
+    
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/tags/embedded/"/>
+    
+      <category term="c++" scheme="http://blog.eldruin.com/tags/c/"/>
+    
+      <category term="game" scheme="http://blog.eldruin.com/tags/game/"/>
     
   </entry>
   

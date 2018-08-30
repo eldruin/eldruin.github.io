@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.eldruin.com/Inter-Process-Communication-pipe-fork-and-C-STL-like-streams/</loc>
+    <loc>http://blog.eldruin.com/inter-process-communication-pipe-fork-cpp-stl-like-streams/</loc>
     
-    <lastmod>2018-08-28T18:03:04.571Z</lastmod>
+    <lastmod>2018-08-30T17:29:15.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.eldruin.com/dsmemorizer/</loc>
+    
+    <lastmod>2018-08-30T17:29:15.680Z</lastmod>
     
   </url>
   
