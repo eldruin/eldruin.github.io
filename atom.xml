@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.eldruin.com/"/>
-  <updated>2018-08-30T17:29:15.680Z</updated>
+  <updated>2018-08-30T18:30:23.819Z</updated>
   <id>http://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DSMemorizer</title>
+    <link href="http://blog.eldruin.com//dsmemorizer/"/>
+    <id>http://blog.eldruin.com//dsmemorizer/</id>
+    <published>2011-04-22T07:04:48.000Z</published>
+    <updated>2018-08-30T18:30:23.819Z</updated>
+    
+    <summary type="html">
+    
+      Homebrew game for the Nintendo DS (and emulators) to help memorizing japanese vocabulary and ideograms.
+    
+    </summary>
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/categories/embedded/"/>
+    
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/tags/embedded/"/>
+    
+      <category term="c++" scheme="http://blog.eldruin.com/tags/c/"/>
+    
+      <category term="game" scheme="http://blog.eldruin.com/tags/game/"/>
+    
+  </entry>
   
   <entry>
     <title>Inter-Process Communication: pipe(), fork() and C++ STL-like streams</title>
@@ -41,15 +65,15 @@
   </entry>
   
   <entry>
-    <title>DSMemorizer</title>
-    <link href="http://blog.eldruin.com//dsmemorizer/"/>
-    <id>http://blog.eldruin.com//dsmemorizer/</id>
+    <title>Sound2Header</title>
+    <link href="http://blog.eldruin.com//sound2header/"/>
+    <id>http://blog.eldruin.com//sound2header/</id>
     <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-08-30T17:29:15.680Z</updated>
+    <updated>2018-08-30T18:28:01.001Z</updated>
     
     <summary type="html">
     
-      Homebrew game for the Nintendo DS (and emulators) to help memorizing japanese vocabulary and ideograms.
+      Program to convert sound files to a C header file containing an array of audio samples. Useful for embedded systems.
     
     </summary>
     
