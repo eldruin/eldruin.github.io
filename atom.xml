@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.eldruin.com/"/>
-  <updated>2018-08-30T18:30:23.819Z</updated>
+  <updated>2018-09-02T10:25:03.154Z</updated>
   <id>http://blog.eldruin.com/</id>
   
   <author>
@@ -17,15 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>DSMemorizer</title>
-    <link href="http://blog.eldruin.com//dsmemorizer/"/>
-    <id>http://blog.eldruin.com//dsmemorizer/</id>
-    <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-08-30T18:30:23.819Z</updated>
+    <title>OSEater</title>
+    <link href="http://blog.eldruin.com//oseater/"/>
+    <id>http://blog.eldruin.com//oseater/</id>
+    <published>2012-02-05T14:04:48.000Z</published>
+    <updated>2018-09-02T10:25:03.154Z</updated>
     
     <summary type="html">
     
-      Homebrew game for the Nintendo DS (and emulators) to help memorizing japanese vocabulary and ideograms.
+      Pac-man-style game for the LPC2378-STK board from Olimex written in C++.
+    
+    </summary>
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/categories/embedded/"/>
+    
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/tags/embedded/"/>
+    
+      <category term="c++" scheme="http://blog.eldruin.com/tags/c/"/>
+    
+      <category term="game" scheme="http://blog.eldruin.com/tags/game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sound2Header</title>
+    <link href="http://blog.eldruin.com//sound2header/"/>
+    <id>http://blog.eldruin.com//sound2header/</id>
+    <published>2012-01-28T18:04:48.000Z</published>
+    <updated>2018-09-02T10:25:08.810Z</updated>
+    
+    <summary type="html">
+    
+      Program to convert sound files to a C header file containing an array of audio samples. Useful for embedded systems.
     
     </summary>
     
@@ -45,7 +69,7 @@
     <link href="http://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/"/>
     <id>http://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/</id>
     <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-08-30T17:29:15.680Z</updated>
+    <updated>2018-09-02T10:24:54.929Z</updated>
     
     <summary type="html">
     
@@ -65,15 +89,15 @@
   </entry>
   
   <entry>
-    <title>Sound2Header</title>
-    <link href="http://blog.eldruin.com//sound2header/"/>
-    <id>http://blog.eldruin.com//sound2header/</id>
-    <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-08-30T18:28:01.001Z</updated>
+    <title>DSMemorizer</title>
+    <link href="http://blog.eldruin.com//dsmemorizer/"/>
+    <id>http://blog.eldruin.com//dsmemorizer/</id>
+    <published>2009-10-01T07:04:48.000Z</published>
+    <updated>2018-09-02T10:24:49.349Z</updated>
     
     <summary type="html">
     
-      Program to convert sound files to a C header file containing an array of audio samples. Useful for embedded systems.
+      Homebrew game for the Nintendo DS (and emulators) to help memorizing japanese vocabulary and ideograms.
     
     </summary>
     
