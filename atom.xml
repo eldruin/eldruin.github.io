@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.eldruin.com/"/>
-  <updated>2018-09-02T10:25:03.154Z</updated>
+  <updated>2018-09-10T17:24:52.383Z</updated>
   <id>http://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>24x Serial EEPROM ICs driver in Rust</title>
+    <link href="http://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/"/>
+    <id>http://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/</id>
+    <published>2018-09-09T11:49:37.000Z</published>
+    <updated>2018-09-10T17:24:52.383Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the 24x-series serial EEPROM ICs written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="http://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="http://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="http://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="http://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
   
   <entry>
     <title>OSEater</title>
