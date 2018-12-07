@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
+    
+    <lastmod>2018-12-07T12:26:34.602Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
     
     <lastmod>2018-09-24T17:26:10.469Z</lastmod>
