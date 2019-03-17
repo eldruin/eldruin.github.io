@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2018-12-07T12:26:34.602Z</updated>
+  <updated>2019-03-17T16:20:42.717Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -17,11 +17,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TMP1x2 Temperature Sensor Driver in Rust</title>
+    <link href="https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/</id>
+    <published>2019-03-17T09:22:17.000Z</published>
+    <updated>2019-03-17T16:20:42.717Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the TMP102 and TMP112 temperature sensors written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
+  
+  <entry>
     <title>TMP006 Contact-less Infrared (IR) Thermopile Temperature Sensor Driver in Rust</title>
     <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
     <published>2018-12-07T17:22:17.000Z</published>
     <updated>2018-12-07T12:26:34.602Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the TMP006 contact-less infrared (IR) thermopile temperature sensor written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TMP006 Contact-less Infrared (IR) Thermopile Temperature Sensor Driver in Rust</title>
+    <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
+    <published>2018-12-07T17:22:17.000Z</published>
+    <updated>2019-03-17T09:44:34.294Z</updated>
     
     <summary type="html">
     

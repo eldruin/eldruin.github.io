@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-03-17T16:20:42.717Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
+    
+    <lastmod>2019-03-17T09:44:34.294Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
     
     <lastmod>2018-12-07T12:26:34.602Z</lastmod>
