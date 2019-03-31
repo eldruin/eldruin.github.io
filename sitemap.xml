@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
+    
+    <lastmod>2019-03-31T14:56:31.913Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
     
     <lastmod>2019-03-17T16:20:42.717Z</lastmod>
