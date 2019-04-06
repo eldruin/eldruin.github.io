@@ -95,32 +95,6 @@
   </entry>
   
   <entry>
-    <title>TMP006 Contact-less Infrared (IR) Thermopile Temperature Sensor Driver in Rust</title>
-    <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
-    <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
-    <published>2018-12-07T17:22:17.000Z</published>
-    <updated>2019-03-17T09:44:34.294Z</updated>
-    
-    <summary type="html">
-    
-      Platform-agnostic driver for the TMP006 contact-less infrared (IR) thermopile temperature sensor written in Rust.
-    
-    </summary>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
-    
-      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
-    
-    
-      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
-    
-      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
-    
-  </entry>
-  
-  <entry>
     <title>DS1307 Real-Time Clock (RTC) Driver in Rust</title>
     <link href="https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/</id>
