@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/about/index.html</loc>
+    
+    <lastmod>2019-04-06T09:22:42.177Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
     
     <lastmod>2019-03-31T14:56:31.913Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
     
     <lastmod>2018-09-24T17:26:10.469Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/about/index.html</loc>
-    
-    <lastmod>2018-09-10T17:26:25.259Z</lastmod>
     
   </url>
   
