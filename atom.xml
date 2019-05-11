@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-03-31T14:56:31.913Z</updated>
+  <updated>2019-05-11T07:02:48.782Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>KXCJ9/KXCJB Tri-Axis MEMS Accelerator Driver in Rust</title>
+    <link href="https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</id>
+    <published>2019-05-11T08:22:17.000Z</published>
+    <updated>2019-05-11T07:02:48.782Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the KXCJ9 and KXCJB tri-axis accelerators written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+  </entry>
   
   <entry>
     <title>Ads1x1x Analog-to-Digital Converter Driver in Rust</title>
@@ -34,11 +60,11 @@
       <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
     
     
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
       <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
     
       <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
   </entry>
   
@@ -60,11 +86,11 @@
       <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
     
     
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
       <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
     
       <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
   </entry>
   
@@ -86,11 +112,11 @@
       <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
     
     
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
       <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
     
       <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
   </entry>
   
@@ -112,11 +138,11 @@
       <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
     
     
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
       <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
     
       <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
   </entry>
   
@@ -138,11 +164,11 @@
       <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
     
     
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
       <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
     
       <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
-    
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
   </entry>
   
@@ -162,9 +188,9 @@
       <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
     
     
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
-    
       <category term="c++" scheme="https://blog.eldruin.com/tags/c/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
       <category term="game" scheme="https://blog.eldruin.com/tags/game/"/>
     
@@ -186,9 +212,9 @@
       <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
     
     
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
-    
       <category term="c++" scheme="https://blog.eldruin.com/tags/c/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
       <category term="game" scheme="https://blog.eldruin.com/tags/game/"/>
     
@@ -234,9 +260,9 @@
       <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
     
     
-      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
-    
       <category term="c++" scheme="https://blog.eldruin.com/tags/c/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
     
       <category term="game" scheme="https://blog.eldruin.com/tags/game/"/>
     
