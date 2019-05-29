@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-05-11T07:02:48.782Z</updated>
+  <updated>2019-05-29T16:15:11.541Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AD9833/AD9837 Waveform Generator / DDS Driver in Rust</title>
+    <link href="https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/</id>
+    <published>2019-05-29T16:10:15.000Z</published>
+    <updated>2019-05-29T16:15:11.541Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the AD9833 and AD9837 waveform generators / direct digital synthesizers written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
+  
+  <entry>
     <title>KXCJ9/KXCJB Tri-Axis MEMS Accelerator Driver in Rust</title>
     <link href="https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/"/>
     <id>https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</id>
     <published>2019-05-11T08:22:17.000Z</published>
-    <updated>2019-05-11T07:02:48.782Z</updated>
+    <updated>2019-05-27T15:01:05.101Z</updated>
     
     <summary type="html">
     
@@ -47,7 +73,7 @@
     <link href="https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/</id>
     <published>2019-03-31T12:22:17.000Z</published>
-    <updated>2019-03-31T14:56:31.913Z</updated>
+    <updated>2019-05-27T15:01:05.101Z</updated>
     
     <summary type="html">
     
@@ -73,7 +99,7 @@
     <link href="https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/</id>
     <published>2019-03-17T09:22:17.000Z</published>
-    <updated>2019-03-17T16:20:42.717Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -99,7 +125,7 @@
     <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
     <published>2018-12-07T17:22:17.000Z</published>
-    <updated>2018-12-07T12:26:34.602Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -125,7 +151,7 @@
     <link href="https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/</id>
     <published>2018-09-24T17:25:37.000Z</published>
-    <updated>2018-09-24T17:26:10.469Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -151,7 +177,7 @@
     <link href="https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/"/>
     <id>https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/</id>
     <published>2018-09-09T11:49:37.000Z</published>
-    <updated>2018-09-10T17:24:52.383Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -177,7 +203,7 @@
     <link href="https://blog.eldruin.com//oseater/"/>
     <id>https://blog.eldruin.com//oseater/</id>
     <published>2012-02-05T14:04:48.000Z</published>
-    <updated>2018-09-02T10:25:03.154Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -201,7 +227,7 @@
     <link href="https://blog.eldruin.com//sound2header/"/>
     <id>https://blog.eldruin.com//sound2header/</id>
     <published>2012-01-28T18:04:48.000Z</published>
-    <updated>2018-09-02T10:25:08.810Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -225,7 +251,7 @@
     <link href="https://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/"/>
     <id>https://blog.eldruin.com//inter-process-communication-pipe-fork-cpp-stl-like-streams/</id>
     <published>2011-04-22T07:04:48.000Z</published>
-    <updated>2018-09-02T10:24:54.929Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
@@ -249,7 +275,7 @@
     <link href="https://blog.eldruin.com//dsmemorizer/"/>
     <id>https://blog.eldruin.com//dsmemorizer/</id>
     <published>2009-10-01T07:04:48.000Z</published>
-    <updated>2018-09-02T10:24:49.349Z</updated>
+    <updated>2019-04-01T09:10:07.524Z</updated>
     
     <summary type="html">
     
