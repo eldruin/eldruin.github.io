@@ -2,86 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
+    
+    <lastmod>2019-09-15T11:55:31.916Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
     
-    <lastmod>2019-05-29T16:15:11.541Z</lastmod>
+    <lastmod>2019-05-28T15:44:22.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/about/index.html</loc>
     
-    <lastmod>2019-05-27T15:01:05.101Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
-    
-    <lastmod>2019-05-27T15:01:05.101Z</lastmod>
+    <lastmod>2019-05-12T08:01:36.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
     
-    <lastmod>2019-05-27T15:01:05.101Z</lastmod>
+    <lastmod>2019-05-11T07:02:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.eldruin.com/dsmemorizer/</loc>
+    <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
     
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/inter-process-communication-pipe-fork-cpp-stl-like-streams/</loc>
-    
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
-    
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/</loc>
-    
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/sound2header/</loc>
-    
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
+    <lastmod>2019-03-31T14:56:30.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
+    <lastmod>2019-03-17T17:20:42.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
     
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
+    <lastmod>2018-12-07T13:26:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
+    
+    <lastmod>2018-09-24T17:26:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/</loc>
+    
+    <lastmod>2018-09-10T17:24:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/sound2header/</loc>
+    
+    <lastmod>2018-09-02T10:25:08.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/oseater/</loc>
     
-    <lastmod>2019-04-01T09:10:07.524Z</lastmod>
+    <lastmod>2018-09-02T10:25:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/inter-process-communication-pipe-fork-cpp-stl-like-streams/</loc>
+    
+    <lastmod>2018-09-02T10:24:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/dsmemorizer/</loc>
+    
+    <lastmod>2018-09-02T10:24:48.000Z</lastmod>
     
   </url>
   
