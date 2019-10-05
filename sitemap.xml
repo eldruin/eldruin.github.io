@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
-    
-    <lastmod>2019-09-28T10:13:07.050Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
-    
-    <lastmod>2019-09-15T12:05:34.764Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
-    
-    <lastmod>2019-05-28T15:44:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.eldruin.com/about/index.html</loc>
     
-    <lastmod>2019-05-12T08:01:36.000Z</lastmod>
+    <lastmod>2019-10-05T08:40:08.308Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
     
-    <lastmod>2019-05-11T07:02:48.000Z</lastmod>
+    <lastmod>2019-10-05T08:30:26.476Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
     
-    <lastmod>2019-03-31T14:56:30.000Z</lastmod>
+    <lastmod>2019-10-05T08:30:24.884Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
+    
+    <lastmod>2019-10-05T08:30:23.096Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
+    
+    <lastmod>2019-10-05T08:30:18.760Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-10-05T08:30:14.324Z</lastmod>
     
   </url>
   
