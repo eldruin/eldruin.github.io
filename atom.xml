@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-10-05T08:30:14.324Z</updated>
+  <updated>2019-11-09T16:58:27.173Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OPT300x Ambient Light Sensor Driver in Rust</title>
+    <link href="https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/</id>
+    <published>2019-11-09T16:22:18.000Z</published>
+    <updated>2019-11-09T16:58:27.173Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the OPT300x ambient light sensor written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
   
   <entry>
     <title>VEML6075 UVA and UVB Light Sensor Driver in Rust</title>

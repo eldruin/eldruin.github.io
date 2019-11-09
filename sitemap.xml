@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-09T16:58:27.173Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/about/index.html</loc>
     
     <lastmod>2019-10-05T08:40:08.308Z</lastmod>
