@@ -4,14 +4,70 @@
   <url>
     <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
     
-    <lastmod>2019-11-10T09:08:45.028Z</lastmod>
+    <lastmod>2019-11-11T16:09:34.986Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.968Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.968Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.967Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.967Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-11-09T16:55:11.351Z</lastmod>
+    <lastmod>2019-11-11T16:09:34.967Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.967Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.966Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.966Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-11T16:09:34.965Z</lastmod>
     
   </url>
   
@@ -19,62 +75,6 @@
     <loc>https://blog.eldruin.com/about/index.html</loc>
     
     <lastmod>2019-10-05T08:40:08.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
-    
-    <lastmod>2019-10-05T08:30:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
-    
-    <lastmod>2019-10-05T08:30:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
-    
-    <lastmod>2019-10-05T08:30:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
-    
-    <lastmod>2019-10-05T08:30:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
-    
-    <lastmod>2019-03-17T16:20:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
-    
-    <lastmod>2018-12-07T12:26:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/</loc>
-    
-    <lastmod>2018-09-24T17:26:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/24x-serial-eeprom-driver-in-rust/</loc>
-    
-    <lastmod>2018-09-10T17:24:52.000Z</lastmod>
     
   </url>
   
