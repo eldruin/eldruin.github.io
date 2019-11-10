@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-10T09:08:45.028Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-11-09T16:58:27.173Z</lastmod>
+    <lastmod>2019-11-09T16:55:11.351Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/about/index.html</loc>
     
-    <lastmod>2019-10-05T08:40:08.308Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
-    
-    <lastmod>2019-10-05T08:30:26.476Z</lastmod>
+    <lastmod>2019-10-05T08:40:08.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
     
-    <lastmod>2019-10-05T08:30:24.884Z</lastmod>
+    <lastmod>2019-10-05T08:30:24.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
     
-    <lastmod>2019-10-05T08:30:23.096Z</lastmod>
+    <lastmod>2019-10-05T08:30:22.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
     
-    <lastmod>2019-10-05T08:30:18.760Z</lastmod>
+    <lastmod>2019-10-05T08:30:18.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-10-05T08:30:14.324Z</lastmod>
+    <lastmod>2019-10-05T08:30:14.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-03-17T17:20:42.000Z</lastmod>
+    <lastmod>2019-03-17T16:20:42.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</loc>
     
-    <lastmod>2018-12-07T13:26:34.000Z</lastmod>
+    <lastmod>2018-12-07T12:26:34.000Z</lastmod>
     
   </url>
   
