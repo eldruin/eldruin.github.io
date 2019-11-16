@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-16T18:10:27.988Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</loc>
     
     <lastmod>2019-11-11T16:09:34.986Z</lastmod>
@@ -52,13 +59,6 @@
   
   <url>
     <loc>https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/</loc>
-    
-    <lastmod>2019-11-11T16:09:34.966Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
     
     <lastmod>2019-11-11T16:09:34.966Z</lastmod>
     
