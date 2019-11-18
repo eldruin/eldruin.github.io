@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-11-18T09:37:32.021Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/ad983x-waveform-generator-dds-driver-in-rust/</loc>
     
     <lastmod>2019-11-16T18:10:27.988Z</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://blog.eldruin.com/mcp794xx-real-time-clock-rtc-driver-in-rust/</loc>
-    
-    <lastmod>2019-11-11T16:09:34.967Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.eldruin.com/opt300x-ambient-light-sensor-driver-in-rust/</loc>
     
     <lastmod>2019-11-11T16:09:34.967Z</lastmod>
     
