@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-11-18T09:37:32.021Z</updated>
+  <updated>2019-12-02T17:44:51.729Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/</id>
     <published>2019-11-09T16:22:18.000Z</published>
-    <updated>2019-11-18T09:37:32.021Z</updated>
+    <updated>2019-12-02T17:44:51.729Z</updated>
     
     <summary type="html">
     
@@ -47,7 +47,7 @@
     <link href="https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</id>
     <published>2019-09-28T09:22:18.000Z</published>
-    <updated>2019-11-11T16:09:34.968Z</updated>
+    <updated>2019-12-02T17:45:35.364Z</updated>
     
     <summary type="html">
     
@@ -73,7 +73,7 @@
     <link href="https://blog.eldruin.com//mcp794xx-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//mcp794xx-real-time-clock-rtc-driver-in-rust/</id>
     <published>2019-09-15T10:22:17.000Z</published>
-    <updated>2019-11-11T16:09:34.967Z</updated>
+    <updated>2019-12-02T17:44:39.228Z</updated>
     
     <summary type="html">
     
@@ -99,7 +99,7 @@
     <link href="https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/</id>
     <published>2019-05-29T16:10:15.000Z</published>
-    <updated>2019-11-16T18:10:27.988Z</updated>
+    <updated>2019-12-02T17:43:38.331Z</updated>
     
     <summary type="html">
     
@@ -125,7 +125,7 @@
     <link href="https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/"/>
     <id>https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</id>
     <published>2019-05-11T08:22:17.000Z</published>
-    <updated>2019-11-11T16:09:34.986Z</updated>
+    <updated>2019-12-02T17:44:15.335Z</updated>
     
     <summary type="html">
     
@@ -151,7 +151,7 @@
     <link href="https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/</id>
     <published>2019-03-31T12:22:17.000Z</published>
-    <updated>2019-11-11T16:09:34.966Z</updated>
+    <updated>2019-12-02T17:43:49.772Z</updated>
     
     <summary type="html">
     
@@ -177,7 +177,7 @@
     <link href="https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/</id>
     <published>2019-03-17T09:22:17.000Z</published>
-    <updated>2019-11-11T16:09:34.968Z</updated>
+    <updated>2019-12-02T17:45:02.346Z</updated>
     
     <summary type="html">
     
@@ -203,7 +203,7 @@
     <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
     <published>2018-12-07T17:22:17.000Z</published>
-    <updated>2019-11-11T16:09:34.967Z</updated>
+    <updated>2019-12-02T17:45:17.679Z</updated>
     
     <summary type="html">
     
@@ -229,7 +229,7 @@
     <link href="https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/</id>
     <published>2018-09-24T17:25:37.000Z</published>
-    <updated>2019-11-11T16:09:34.967Z</updated>
+    <updated>2019-12-02T17:44:00.859Z</updated>
     
     <summary type="html">
     
@@ -255,7 +255,7 @@
     <link href="https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/"/>
     <id>https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/</id>
     <published>2018-09-09T11:49:37.000Z</published>
-    <updated>2019-11-11T16:09:34.965Z</updated>
+    <updated>2019-12-02T17:43:23.686Z</updated>
     
     <summary type="html">
     
