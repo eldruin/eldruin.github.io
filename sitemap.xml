@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/</loc>
+    
+    <lastmod>2019-12-03T20:48:28.847Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
     
     <lastmod>2019-12-02T17:45:35.364Z</lastmod>
