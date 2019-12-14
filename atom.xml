@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-12-10T15:54:58.111Z</updated>
+  <updated>2019-12-14T17:35:02.931Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.eldruin.com//pca9685-pwm-led-servo-controller-driver-in-rust/"/>
     <id>https://blog.eldruin.com//pca9685-pwm-led-servo-controller-driver-in-rust/</id>
     <published>2019-12-10T14:10:15.000Z</published>
-    <updated>2019-12-10T15:54:58.111Z</updated>
+    <updated>2019-12-14T17:35:02.931Z</updated>
     
     <summary type="html">
     
@@ -47,7 +47,7 @@
     <link href="https://blog.eldruin.com//si4703-fm-radio-receiver-driver-in-rust/"/>
     <id>https://blog.eldruin.com//si4703-fm-radio-receiver-driver-in-rust/</id>
     <published>2019-12-03T18:22:18.000Z</published>
-    <updated>2019-12-04T13:04:13.693Z</updated>
+    <updated>2019-12-14T17:25:52.725Z</updated>
     
     <summary type="html">
     
@@ -73,7 +73,7 @@
     <link href="https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//opt300x-ambient-light-sensor-driver-in-rust/</id>
     <published>2019-11-09T16:22:18.000Z</published>
-    <updated>2019-12-04T18:07:28.587Z</updated>
+    <updated>2019-12-14T17:28:52.007Z</updated>
     
     <summary type="html">
     
@@ -99,7 +99,7 @@
     <link href="https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</id>
     <published>2019-09-28T09:22:18.000Z</published>
-    <updated>2019-12-04T18:07:49.641Z</updated>
+    <updated>2019-12-14T17:30:01.594Z</updated>
     
     <summary type="html">
     
@@ -125,7 +125,7 @@
     <link href="https://blog.eldruin.com//mcp794xx-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//mcp794xx-real-time-clock-rtc-driver-in-rust/</id>
     <published>2019-09-15T10:22:17.000Z</published>
-    <updated>2019-12-04T18:07:24.179Z</updated>
+    <updated>2019-12-14T17:28:39.602Z</updated>
     
     <summary type="html">
     
@@ -151,7 +151,7 @@
     <link href="https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ad983x-waveform-generator-dds-driver-in-rust/</id>
     <published>2019-05-29T16:10:15.000Z</published>
-    <updated>2019-12-10T15:26:16.823Z</updated>
+    <updated>2019-12-14T17:27:35.679Z</updated>
     
     <summary type="html">
     
@@ -177,7 +177,7 @@
     <link href="https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/"/>
     <id>https://blog.eldruin.com//kxcj9-kxcjb-tri-axis-mems-accelerator-driver-in-rust/</id>
     <published>2019-05-11T08:22:17.000Z</published>
-    <updated>2019-12-04T18:07:19.474Z</updated>
+    <updated>2019-12-14T17:28:24.828Z</updated>
     
     <summary type="html">
     
@@ -203,7 +203,7 @@
     <link href="https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ads1x1x-analog-to-digital-converter-driver-in-rust/</id>
     <published>2019-03-31T12:22:17.000Z</published>
-    <updated>2019-12-04T18:07:07.752Z</updated>
+    <updated>2019-12-14T17:27:50.859Z</updated>
     
     <summary type="html">
     
@@ -229,7 +229,7 @@
     <link href="https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp1x2-temperature-sensor-driver-in-rust/</id>
     <published>2019-03-17T09:22:17.000Z</published>
-    <updated>2019-12-04T18:07:38.411Z</updated>
+    <updated>2019-12-14T17:29:20.062Z</updated>
     
     <summary type="html">
     
@@ -255,7 +255,7 @@
     <link href="https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/"/>
     <id>https://blog.eldruin.com//tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/</id>
     <published>2018-12-07T17:22:17.000Z</published>
-    <updated>2019-12-04T18:07:44.650Z</updated>
+    <updated>2019-12-14T17:29:41.092Z</updated>
     
     <summary type="html">
     
@@ -281,7 +281,7 @@
     <link href="https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/"/>
     <id>https://blog.eldruin.com//ds1307-real-time-clock-rtc-driver-in-rust/</id>
     <published>2018-09-24T17:25:37.000Z</published>
-    <updated>2019-12-04T18:07:14.105Z</updated>
+    <updated>2019-12-14T17:28:11.070Z</updated>
     
     <summary type="html">
     
@@ -307,7 +307,7 @@
     <link href="https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/"/>
     <id>https://blog.eldruin.com//24x-serial-eeprom-driver-in-rust/</id>
     <published>2018-09-09T11:49:37.000Z</published>
-    <updated>2019-12-04T18:06:59.208Z</updated>
+    <updated>2019-12-14T17:27:19.660Z</updated>
     
     <summary type="html">
     
