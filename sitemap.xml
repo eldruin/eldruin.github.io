@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-12-20T18:15:06.858Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/</loc>
     
     <lastmod>2019-12-18T09:52:23.942Z</lastmod>

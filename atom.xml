@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-12-18T09:52:23.942Z</updated>
+  <updated>2019-12-20T18:15:06.858Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VEML6030 Ambient Light Sensor Driver in Rust</title>
+    <link href="https://blog.eldruin.com//veml6030-ambient-light-sensor-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//veml6030-ambient-light-sensor-driver-in-rust/</id>
+    <published>2019-12-20T18:22:18.000Z</published>
+    <updated>2019-12-20T18:15:06.858Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the VEML6030 ambient light sensor written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
   
   <entry>
     <title>PCA9685 PWM LED/Servo Controller Driver in Rust</title>
