@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-12-20T18:15:06.858Z</updated>
+  <updated>2019-12-21T08:26:30.574Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>VEML6030 Ambient Light Sensor Driver in Rust</title>
+    <title>VEML6030/VEML7700 Ambient Light Sensor Driver in Rust</title>
     <link href="https://blog.eldruin.com//veml6030-ambient-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//veml6030-ambient-light-sensor-driver-in-rust/</id>
     <published>2019-12-20T18:22:18.000Z</published>
-    <updated>2019-12-20T18:15:06.858Z</updated>
+    <updated>2019-12-21T08:26:30.574Z</updated>
     
     <summary type="html">
     
-      Platform-agnostic driver for the VEML6030 ambient light sensor written in Rust.
+      Platform-agnostic driver for the VEML6030 and VEML7700 ambient light sensors written in Rust.
     
     </summary>
     
