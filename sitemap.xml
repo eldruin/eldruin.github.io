@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/</loc>
+    <loc>https://blog.eldruin.com/tips-hobby-embedded-development-beginners/</loc>
     
-    <lastmod>2020-08-28T20:45:03.000Z</lastmod>
+    <lastmod>2020-08-28T21:50:09.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.eldruin.com/tips-hobby-embedded-development-beginners/</loc>
+    <loc>https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/</loc>
     
-    <lastmod>2020-08-28T20:35:47.000Z</lastmod>
+    <lastmod>2020-08-28T20:45:03.000Z</lastmod>
     
   </url>
   
