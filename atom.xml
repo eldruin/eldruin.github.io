@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2019-12-21T08:26:30.574Z</updated>
+  <updated>2020-08-28T20:35:47.000Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tips for hobby embedded development beginners</title>
+    <link href="https://blog.eldruin.com//tips-hobby-embedded-development-beginners/"/>
+    <id>https://blog.eldruin.com//tips-hobby-embedded-development-beginners/</id>
+    <published>2020-08-28T17:22:18.000Z</published>
+    <updated>2020-08-28T20:35:47.000Z</updated>
+    
+    <summary type="html">
+    
+      A list of tips and hardware recomendations for hobby beginners.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
   
   <entry>
     <title>VEML6030/VEML7700 Ambient Light Sensor Driver in Rust</title>
@@ -47,7 +67,7 @@
     <link href="https://blog.eldruin.com//pca9685-pwm-led-servo-controller-driver-in-rust/"/>
     <id>https://blog.eldruin.com//pca9685-pwm-led-servo-controller-driver-in-rust/</id>
     <published>2019-12-10T14:10:15.000Z</published>
-    <updated>2019-12-18T09:52:23.942Z</updated>
+    <updated>2020-08-28T20:45:03.000Z</updated>
     
     <summary type="html">
     
@@ -125,7 +145,7 @@
     <link href="https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/"/>
     <id>https://blog.eldruin.com//veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</id>
     <published>2019-09-28T09:22:18.000Z</published>
-    <updated>2019-12-14T17:30:01.594Z</updated>
+    <updated>2020-08-28T08:25:13.000Z</updated>
     
     <summary type="html">
     

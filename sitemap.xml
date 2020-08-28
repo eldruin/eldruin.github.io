@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/</loc>
+    <loc>https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/</loc>
     
-    <lastmod>2019-12-21T08:26:30.574Z</lastmod>
+    <lastmod>2020-08-28T20:45:03.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/</loc>
+    <loc>https://blog.eldruin.com/tips-hobby-embedded-development-beginners/</loc>
     
-    <lastmod>2019-12-18T09:52:23.942Z</lastmod>
+    <lastmod>2020-08-28T20:35:47.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.eldruin.com/veml6075-uva-uvb-uv-index-light-sensor-driver-in-rust/</loc>
     
-    <lastmod>2019-12-14T17:30:01.594Z</lastmod>
+    <lastmod>2020-08-28T08:25:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/</loc>
+    
+    <lastmod>2019-12-21T08:26:30.574Z</lastmod>
     
   </url>
   
