@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.eldruin.com/"/>
-  <updated>2020-08-29T21:20:33.000Z</updated>
+  <updated>2020-09-10T18:23:14.000Z</updated>
   <id>https://blog.eldruin.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CCS811 Indoor Air Quality Sensor Driver in Rust</title>
+    <link href="https://blog.eldruin.com//ccs811-indoor-air-quality-sensor-driver-in-rust/"/>
+    <id>https://blog.eldruin.com//ccs811-indoor-air-quality-sensor-driver-in-rust/</id>
+    <published>2020-09-10T17:22:18.000Z</published>
+    <updated>2020-09-10T18:23:14.000Z</updated>
+    
+    <summary type="html">
+    
+      Platform-agnostic driver for the AMS/ScioSense CCS811 indoor air quality sensor (gas and volatile organic compounds, VOC) written in Rust.
+    
+    </summary>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/categories/embedded/"/>
+    
+      <category term="rust" scheme="https://blog.eldruin.com/categories/embedded/rust/"/>
+    
+    
+      <category term="rust" scheme="https://blog.eldruin.com/tags/rust/"/>
+    
+      <category term="driver" scheme="https://blog.eldruin.com/tags/driver/"/>
+    
+      <category term="embedded" scheme="https://blog.eldruin.com/tags/embedded/"/>
+    
+  </entry>
   
   <entry>
     <title>Tips for hobby embedded development beginners</title>
