@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/</loc>
+    <loc>https://blog.eldruin.com/tips-hobby-embedded-development-beginners/</loc>
     
-    <lastmod>2020-09-11T12:06:30.000Z</lastmod>
+    <lastmod>2020-09-17T19:05:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.eldruin.com/tips-hobby-embedded-development-beginners/</loc>
+    <loc>https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/</loc>
     
-    <lastmod>2020-09-11T12:00:26.000Z</lastmod>
+    <lastmod>2020-09-11T12:06:30.000Z</lastmod>
     
   </url>
   
